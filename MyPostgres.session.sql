@@ -1,0 +1,1 @@
+select * FROM customer_usage
